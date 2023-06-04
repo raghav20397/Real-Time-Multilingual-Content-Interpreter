@@ -5,6 +5,8 @@ The interpreter translates lyrics of any song in any language, given the song na
 based on the translation/meaning in the translated language.
 The recommender stores tf-idf matrices in vector form and then uses cosine similarities to recommend top 'k' songs to the user.
 
+Front-end: https://github.com/shxwshank/ir-frontend
+
 In order to run the code, please follow the following steps:
 1. `python -m venv venv`
 2. `pip3 install -r requirements.txt`
