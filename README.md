@@ -10,4 +10,4 @@ Front-end: https://github.com/shxwshank/ir-frontend
 In order to run the code, please follow the following steps:
 1. `python -m venv venv`
 2. `pip3 install -r requirements.txt`
-3. `python3 manage.py server`
+3. `python3 manage.py runserver`
